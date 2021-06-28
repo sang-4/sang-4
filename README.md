@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sang-4
 - 👀 I’m interested in being a Full Stack Developee
 - 🌱 I’m currently learning HTML, CSS and Javascript 
-- 💞️ I’m looking to collaborate on open source projecta
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: Email sang@ksadigitali.com
 
 <!---
