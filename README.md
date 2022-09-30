@@ -33,7 +33,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/26
 
 - :seedling: Exploring Technical Writing, Blockchain Technology, AI and Gaming.
 
-- :zap: In my free time, I code, go for hikes, game and read tech articles.
+- :zap: In my free time, I code, do hikes, game and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-kiprop-6ab385157/)
 
@@ -55,3 +55,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/26
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sang-4&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sang-4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
