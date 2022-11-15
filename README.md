@@ -27,7 +27,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="30"> from Nairobi, Kenya.
+I am a Full Stack Software Developer and an aspiring Blockchain Developer <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="30"> from Nairobi, Kenya.
 
 - :telescope: I’m a Software Engineering graduate and I'm actively looking for open source projects to contribute to, Internship/Employment opportunities.
 
