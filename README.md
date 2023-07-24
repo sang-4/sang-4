@@ -27,7 +27,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Software Developer and an aspiring Blockchain Developer <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="30"> from Nairobi, Kenya.
+I am a Full Stack Software Engineer based in Nairobi, Kenya.
 
 - :telescope: I’m a Software Engineer actively looking for open source projects to contribute to, Internship/Employment opportunities.
 
@@ -35,7 +35,7 @@ I am a Full Stack Software Developer and an aspiring Blockchain Developer <img s
 
 - :zap: In my free time, I code, do hikes, game and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-kiprop-6ab385157/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-kiprop-65829b285/)
 
 ---
 
