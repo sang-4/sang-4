@@ -58,4 +58,6 @@ I am a Full Stack Software Engineer based in Nairobi, Kenya.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sang-4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/cb18c430-d9a4-46d9-8086-2b091e7d0f48.svg)](https://wakatime.com/@cb18c430-d9a4-46d9-8086-2b091e7d0f48)
+
 
