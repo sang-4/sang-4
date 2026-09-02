@@ -27,11 +27,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Software Engineer based in Nairobi, Kenya.
+Full Stack Software Engineer based in Nairobi, Kenya.
 
-- :telescope: I’m a Software Engineer actively looking for open source projects to contribute to, Internship/Employment opportunities.
-
-- :seedling: Exploring Technical Writing, Blockchain Technology, AI and Gaming.
+- :seedling: Exploring Technical Writing, Blockchain Technology, AI, Cybersecurity and Gaming.
 
 - :zap: In my free time, I code, do hikes, game and read tech articles.
 
